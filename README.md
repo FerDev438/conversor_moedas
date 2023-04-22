@@ -14,7 +14,7 @@ I created a DropdownButton but was hard because there's a supose bug in the Drop
 
 #### TODO
 Make functional
-Create the dispose method to the instances created
+and Create the dispose method to the instances created
 
 A few resources to get you started if this is your first Flutter project:
 
